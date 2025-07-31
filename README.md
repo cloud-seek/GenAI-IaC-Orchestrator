@@ -273,17 +273,17 @@ Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](LI
 
 ## 🗺️ Roadmap
 
-### v1.1.0 (Q2 2024)
+### v1.1.0 (Q2 2025)
 - [ ] Autenticación y autorización
 - [ ] Métricas y monitoreo
 - [ ] Plantillas de infraestructura
 
-### v1.2.0 (Q3 2024)
+### v1.2.0 (Q3 2025)
 - [ ] Soporte para Ansible
 - [ ] Integración con Kubernetes
 - [ ] Dashboard de costos
 
-### v2.0.0 (Q4 2024)
+### v2.0.0 (Q4 2025)
 - [ ] Soporte multi-cloud simultáneo
 - [ ] IA para optimización de costos
 - [ ] Marketplace de plantillas
